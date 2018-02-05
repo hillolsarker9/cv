@@ -1,0 +1,70 @@
+
+.heading 
+{
+	text-align: center;
+    text-decoration-style: dashed;
+    text-decoration-line: underline;
+    padding: 0;
+    margin-top: 0
+}
+body{
+	background: #c2bfba;
+	width: 100%;
+	height: auto;
+}
+.main{
+	  width: 100%;
+	  height: auto;
+	 }
+.myself{
+	    width:40%;
+	    height: auto;
+	    float: left;
+	    padding-right: 100px;
+	    }
+img
+	{
+		height: 200px;
+	    width: 200px;
+	    box-sizing: border-box;
+	    display: inline-block;
+	}
+.address{}
+.skills 
+	{
+		display: inline-block;	
+	}
+.skillname
+		{
+		
+	    height: auto;
+	    float: left;
+	    }
+.skillstar
+		{
+		
+	    height: auto;
+	    float: left;
+		}
+ul{}
+li{list-style: none;}
+.skillstar{}
+.hobbies{}
+.contact{}
+.description{
+	    	width:50%;
+	    	height: auto;
+	    	float: left;
+			}
+.name{}
+.personalinformation{}
+.education{
+	margin-top: 2px;
+}
+	h1,h2{
+		margin: 0;
+	}
+	
+
+pre{font-size: 15px;
+margin: 0px;}
